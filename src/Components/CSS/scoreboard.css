@@ -1,0 +1,8 @@
+.main-ctn{
+    display: flex;
+    flex-direction: column;
+}
+.title-ctn{
+    background-color: red;
+color: white;
+}
