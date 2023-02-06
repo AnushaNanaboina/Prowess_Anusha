@@ -1,0 +1,10 @@
+.main-ctn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title-ctn{
+    background-color: red;
+color: white;
+}

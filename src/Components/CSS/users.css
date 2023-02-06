@@ -1,0 +1,25 @@
+.user-main{
+  /* width: 500px; 
+    height: 500px; */
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+table{
+    width: 100%;
+    /* height: 50px; */
+    background-color: white;
+}
+th,td{
+    outline: 1px solid black;
+}
+.table-ctn{
+    width: 100%;
+    height:300px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}

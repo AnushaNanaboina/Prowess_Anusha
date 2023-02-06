@@ -1,0 +1,23 @@
+.register-ctn{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color:none;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.form-ctn{
+    width:500px;
+    height:500px;
+    display:flex;
+    /* border: 3px solid violet; */
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.title-ctn{
+    width:100vw;
+}
